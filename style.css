@@ -1,0 +1,10 @@
+body {
+    font-family: 'Droid Sans', sans-serif;
+}
+
+article {
+    border-style: solid;
+    border-width: medium;
+    background-color: #CCFFFF;
+    width: 640px;
+}
